@@ -1,1 +1,15 @@
-
+{
+  "name": "1,000,000 $DOGS voucher",
+  "description": "Exchange this item for 1,000,000 $DOGS at: t.me/DogsClaimAppBot",
+  "attributes": [
+    {
+      "trait_type": "Official",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://dogsairdrop.github.io/metadata/dogs-nft-2.png"
+}
