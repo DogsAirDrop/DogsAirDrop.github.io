@@ -3,6 +3,10 @@
   "description": "Exchange this item for 1,000,000 $DOGS at: t.me/DogsClaimAppBot",
   "attributes": [
     {
+      "trait_type": "Value",
+      "value": "1,000,000"
+    },
+    {
       "trait_type": "Official",
       "value": "True"
     },
