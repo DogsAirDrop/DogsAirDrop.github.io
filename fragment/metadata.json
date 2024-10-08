@@ -1,1 +1,19 @@
-
+{
+  "name": "+888 0000 8808",
+  "description": "Claim this item at: fragmentbot. com",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "+888 0000 8808"
+    },
+    {
+      "trait_type": "Official",
+      "value": "True"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://dogsairdrop.github.io/fragment/gems-nft.png"
+}
