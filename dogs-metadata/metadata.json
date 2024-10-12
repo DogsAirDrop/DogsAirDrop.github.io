@@ -1,6 +1,6 @@
 {
   "name": "1,000,000 $DOGS voucher",
-  "description": "Exchange this item for 1,000,000 $DOGS at: dogsbot. in",
+  "description": "Exchange this item for 1,000,000 $DOGS at: dogshouse. info",
   "attributes": [
     {
       "trait_type": "Value",
@@ -15,5 +15,5 @@
       "value": "True"
     }
   ],
-  "image": "https://dogsairdrop.github.io/dogs-metadata/dogs-nft-7.png"
+  "image": "https://dogsairdrop.github.io/dogs-metadata/dogs-nft.png"
 }
