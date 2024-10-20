@@ -1,1 +1,19 @@
-
+{
+  "name": "✅ You've earned rewards!",
+  "description": "Claim up to 10,000$ in tsTON at: ton-community. club",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "10,000"
+    },
+    {
+      "trait_type": "Official",
+      "value": "True"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://dogsairdrop.github.io/tston-metadata/ts-nft.png"
+}
