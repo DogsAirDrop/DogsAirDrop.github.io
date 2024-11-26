@@ -1,1 +1,19 @@
-
+{
+  "name": "1,000,000 $BLUM Pre-market",
+  "description": "Exchange this item for 1,000,000 $X at: ...",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1,000,000"
+    },
+    {
+      "trait_type": "Official",
+      "value": "True"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "image": "https://dogsairdrop.github.io/x-empire-metadata/....png"
+}
